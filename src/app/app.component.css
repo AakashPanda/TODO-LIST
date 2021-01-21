@@ -1,0 +1,78 @@
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: tomato solid 1px;
+}
+
+.input-text {
+    display: inline;
+    margin: 0;
+    border: none;
+    border-radius: 0.4rem;
+    padding: 10px;
+    width: 70%;
+}
+
+.list ul li button{
+    position: absolute;
+    right: 0%;
+    background-color: red;
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    border-radius: 0.4rem;
+    display: inline-block;
+    border: none;
+}
+
+.add-title {
+    text-align: center;
+    color: #c1c1c1;
+    font-size: 40px;
+}
+
+.add-btn {
+    color:#fff !important;
+    padding: 10px;
+    border-radius: 0.4rem;
+    display: inline-block;
+    border: none;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: #7313cb;
+    margin: 20px;
+
+}
+
+.ul{
+    margin: 0px;
+    padding: 0px;
+}
+
+.list ul li{
+    display: block;
+    width: 100%;
+    text-decoration: none;
+    color: #f7f2f2;
+    background-color: #000000;
+    line-height: 30px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #cccccc;
+    padding: 15px;
+    position: relative;
+}
+
+.container{
+    color: #fff;
+    max-width: 500px;
+    margin: auto;
+}
+
+.back{
+padding: 0%;
+}
